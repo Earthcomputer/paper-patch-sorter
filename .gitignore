@@ -1,0 +1,5 @@
+.gradle/
+.idea/
+build/
+/paper/
+paper-categories.csv.swp
