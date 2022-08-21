@@ -18,6 +18,7 @@ patch,categories...
 0017-Allow-nerfed-mobs-to-jump-and-take-water-damage.patch,feat
 0018-Add-configurable-despawn-distances-for-living-entiti.patch,feat
 0019-Allow-for-toggling-of-spawn-chunks.patch,feat
+0020-Drop-falling-block-and-tnt-entities-at-the-specified.patch,feat
 0021-Show-Paper-in-client-crashes-server-lists-and-Mojang.patch,feat
 0022-Implement-Paper-VersionChecker.patch,feat
 0023-Add-version-history-to-version-command.patch,feat
