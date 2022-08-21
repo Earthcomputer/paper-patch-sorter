@@ -52,7 +52,8 @@ val patchCategories = mutableMapOf<String, EnumSet<Category>>()
 enum class Category(val shortName: String, val shortcutKey: Int) {
     API("api", KeyEvent.VK_A),
     PERFORMANCE("perf", KeyEvent.VK_P),
-    BUG_FIX("fix", KeyEvent.VK_F),
+    BUG_FIX("fix", KeyEvent.VK_X),
+    FEATURE("feat", KeyEvent.VK_F),
     SECURITY("sec", KeyEvent.VK_S),
     FIX_SPIGOT_BULLSHIT("spigot", KeyEvent.VK_T),
     OTHER("other", KeyEvent.VK_O),
